@@ -47,5 +47,3 @@ https://mgechev.github.io/javascript-algorithms/index.html
 ## Public APIs
 
 https://github.com/toddmotto/public-apis
-
-
