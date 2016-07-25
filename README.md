@@ -15,8 +15,8 @@ Use `git clone` to download your own copy of this repo. Create a new branch with
 ## JavaScript
 
 #### JavaScript Fundamentals
-[avaScript the Good Parts - playlist (video)](https://www.youtube.com/playlist?list=PL7664379246A246CB)
-[JavaScript the Weird Parts - first 3.5hrs (video)](https://youtu.be/Bv_5Zv5c-Ts)
+[avaScript the Good Parts - playlist (video)](https://www.youtube.com/playlist?list=PL7664379246A246CB)  
+[JavaScript the Weird Parts - first 3.5hrs (video)](https://youtu.be/Bv_5Zv5c-Ts)  
 [JavaScript Fundimentals playlist](https://www.youtube.com/playlist?list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V)
 
 [Default Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
