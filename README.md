@@ -43,7 +43,7 @@ Use `git clone` to download your own copy of this repo. Create a new branch with
 
 #### Chrome DevTools
 
-[Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/DevTools)
+[Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/DevTools)  
 [CodeSchool - Discover DevTools](https://www.codeschool.com/courses/discover-devtools)
 
 #### Event Loop
