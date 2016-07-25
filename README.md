@@ -65,3 +65,7 @@ Use `git clone` to download your own copy of this repo. Create a new branch with
 ## Public APIs
 
 [List of APIs](https://github.com/toddmotto/public-apis)
+
+## Git & Github
+
+[Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
