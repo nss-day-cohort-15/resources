@@ -7,7 +7,7 @@ Use `git clone` to download your own copy of this repo. Create a new branch with
 
 ## Coding Challenges
 
-<a href="https://www.codewars.com" target="_blank">Codewars</a>  
+<a href="https://www.codewars.com" target="\_blank">Codewars</a>  
 <a href="https://www.freecodecamp.com" target="_blank">Free Code Camp</a>  
 <a href="https://www.interviewcake.com" target="_blank">Interview Cake</a>  
 <a href="https://www.exercism.io" target="_blank">Exercism.io (uses testing)</a>
