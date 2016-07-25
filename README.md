@@ -47,3 +47,7 @@ https://mgechev.github.io/javascript-algorithms/index.html
 ## Public APIs
 
 https://github.com/toddmotto/public-apis
+
+## JavaScript: The Good Parts
+
+http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
