@@ -35,7 +35,7 @@ Use `git clone` to download your own copy of this repo. Create a new branch with
 
 [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript)  
 [Exploring ES6](http://exploringjs.com/es6/)  
-[Elegant JavaScript](http://eloquentjavascript.net/)  
+[Eloquent JavaScript](http://eloquentjavascript.net/)  
 [JavaScript The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)  
 [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
