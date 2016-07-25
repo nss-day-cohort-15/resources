@@ -10,7 +10,7 @@ Use `git clone` to download your own copy of this repo. Create a new branch with
 [Codewars](https://www.codewars.com)  
 [Free Code Camp](https://www.freecodecamp.com)  
 [Interview Cake](https://www.interviewcake.com)  
- [Exercism.io (uses testing)](https://www.exercism.io)
+[Exercism.io (uses testing)](http://www.exercism.io)
 
 ## JavaScript
 
