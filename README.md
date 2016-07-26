@@ -53,7 +53,7 @@ Use `git clone` to download your own copy of this repo. Create a new branch with
 #### Browser Compatibility
 
 [Compatibility Table](https://kangax.github.io/compat-table/es6/)  
-[Compatibility Search](https://caniuse.com)
+[Compatibility Search](http://caniuse.com)
 
 
 ## Algorithms
