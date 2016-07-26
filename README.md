@@ -8,6 +8,10 @@ Use `git clone` to download your own copy of this repo. Create a new branch with
 
 https://www.codewars.com
 
+## Videos
+
+Event Loops: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
 ## Design Patterns
 
 ### Books
@@ -17,6 +21,8 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 ## ES6
 
 ### Free Books
+
+http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
 
 http://exploringjs.com/es6/
 
@@ -48,6 +54,4 @@ https://mgechev.github.io/javascript-algorithms/index.html
 
 https://github.com/toddmotto/public-apis
 
-## JavaScript: The Good Parts
 
-http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
